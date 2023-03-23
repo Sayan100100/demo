@@ -11,6 +11,7 @@ public class test4 {
 		Consumer<Integer> t=(data)->{System.out.println(data);};
 		list.forEach(t);
 		System.out.println("ok");
+		System.out.println("ok");
 	}
 
 }
