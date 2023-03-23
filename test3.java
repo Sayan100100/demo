@@ -7,6 +7,7 @@ public class test3 {
 		String s="okook";
 		System.out.println(s.indexOf("koo"));
 		System.out.println(s.contains("ook"));
+		System.out.println(s.contains("ook"));
 	}
 
 }
