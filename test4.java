@@ -10,6 +10,8 @@ public class test4 {
 		List<Integer> list=Arrays.asList(1,2,3,4,5,null);
 		Consumer<Integer> t=(data)->{System.out.println(data);};
 		list.forEach(t);
+		System.out.println("too good");
+		System.out.println("very good");
 	}
 
 }
